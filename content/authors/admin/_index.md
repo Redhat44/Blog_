@@ -10,7 +10,7 @@ education:
   - course: BSc in Psychology
     institution: Texas A&M University
     year: 2009
-email: ""
+email: "colin.wooldridge@upb.de"
 interests:
 - Entrepreneurial Motivation
 - Entrepreneurial Role Models
