@@ -1,6 +1,6 @@
 [build]
   command = "hugo"
-  #base    = "exampleSite"
+  #base    = "https://www.colinwooldridge.com/"
   publish = "public"
 
 [build.environment]
