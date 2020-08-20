@@ -4,24 +4,22 @@ authors:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Management & Organizational Behavior
+    institution: The University of Texas at San Antonio
+    year: 2019
+  - course: BSc in Psychology
+    institution: Texas A&M University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Entrepreneurial Motivation
+- Entrepreneurial Role Models
+- Statistical Methodology
+- Employee Selection & Voice
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Paderborn University
+  url: "https://www.uni-paderborn.de/person/79024"
+role: Postdoctoral Researcher & Lecturer
 social:
 - icon: envelope
   icon_pack: fas
@@ -42,6 +40,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Postdoctoral reseacher and lecturer at Paderborn University at the International Business Chair of Professor Rüdiger Kabst. My goals in academia are to contribute to a better understanding of the ways is which entrepreneurial motivation is fostered, manifests throughout the entrepreneurial journey, and how new technology platforms impact these processes. I enjoy inroducing students to the data science process (even if they don't always:) and occasionally annoying them with too many pictures of my wife and I's longhaired dachshund. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
