@@ -34,7 +34,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Colin Wooldridge
 user_groups:
 - Researchers
 - Visitors
