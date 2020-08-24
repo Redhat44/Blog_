@@ -40,5 +40,5 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral reseacher and lecturer at Paderborn University at the International Business Chair of Professor Rüdiger Kabst. My goals in academia are to contribute to a better understanding of the ways is which entrepreneurial motivation is fostered, manifests throughout the entrepreneurial journey, and how new technology platforms impact these processes. I enjoy introducing students to the possibilities of entrepreneurship, data scraping and analysis, entrepreneurial finance, recommending entirely too many podcasts, and occasionally annoying them with too many pictures of my wife and I's longhaired dachshund. 
+I am a Postdoctoral reseacher and lecturer at Paderborn University at the International Business Chair of Professor Rüdiger Kabst. My goals in academia are to contribute to a better understanding of the ways is which entrepreneurial motivation is fostered, manifests throughout the entrepreneurial journey, and how new technology platforms impact these processes. I enjoy introducing students to the possibilities of entrepreneurship, data scraping and analysis, entrepreneurial finance, recommending entirely too many podcasts, and occasionally annoying them with too many pictures of my longhaired dachshund. 
 
