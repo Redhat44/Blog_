@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   company = "Management & Personnel Systems"
   company_url = ""
   location = "Houston, Texas"
-  date_start = "2011"
-  date_end = "2018"
+  date_start = "2011-08-01"
+  date_end = "2018-12-01"
   description = """
 
 +++
