@@ -29,7 +29,7 @@ social:
   link: https://www.linkedin.com/in/colin-wooldridge-ph-d-b7ba536b/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7Sf2PajNhkE22FrqiD-mYFTqFDS6SpSeOM4LCL5jo5LqkJ0vdPeJxw38Ta1h7XX1X3HfwM7wAHIsr0IDpQWH7PO9RlKQ&user=9xgwuQwAAAAJ
+  link: https://scholar.google.com/citations?user=9xgwuQwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/Redhat44
