@@ -24,15 +24,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://www.linkedin.com/in/colin-wooldridge-ph-d-b7ba536b/
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F7Sf2PajNhkE22FrqiD-mYFTqFDS6SpSeOM4LCL5jo5LqkJ0vdPeJxw38Ta1h7XX1X3HfwM7wAHIsr0IDpQWH7PO9RlKQ&user=9xgwuQwAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/Redhat44
 superuser: true
 title: Colin Wooldridge
 user_groups:
