@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Professor"
-  company = "University X"
+  company = "kfd"
   company_url = ""
   location = "California"
   date_start = "2016-01-01"
