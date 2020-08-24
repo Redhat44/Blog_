@@ -32,8 +32,10 @@ date_format = "Jan 2006"
   title = "Senior Consultant"
   company = "Management & Personnel Systems"
   company_url = ""
-  location = "2011"
-  date_end = "2018"
+  location = "2011-08-01"
+  date_end = "2018-12-01"
   description = """
+
+  """
 
 +++
