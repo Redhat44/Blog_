@@ -30,9 +30,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=9xgwuQwAAAAJ&hl=en
-- icon = "orcid"
-  icon_pack = "ai"
-  link = "https://orcid.org/0000-0003-0900-3817"
+- icon = orcid
+  icon_pack = ai
+  link = https://orcid.org/0000-0003-0900-3817
 - icon: github
   icon_pack: fab
   link: https://github.com/Redhat44
