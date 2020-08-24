@@ -29,12 +29,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Senior Consultant"
+  company = "Management & Personnel Systems"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Houston, Texas"
+  date_start = "2011"
+  date_end = "2018"
+  description = """
 
 +++
