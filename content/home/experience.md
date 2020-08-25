@@ -27,6 +27,16 @@ date_format = "Jan 2006"
   description = """
 
   """
+[[experience]]
+  title = "Senior Consultant"
+  company = "Management & Personnel Systems"
+  company_url = ""
+  location = "Houston, Texas"
+  date_start = "2011-07-01"
+  date_end = "2018-12-01"
+  description = """
+
+  """
 
 
 
