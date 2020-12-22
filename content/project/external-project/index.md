@@ -4,8 +4,10 @@ external_link: http://example.org
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Experiment currently being conducted to investigate the effects of mortality salience in entreprenuership `
 tags:
 - Demo
-title: External Project
+title: Values Clarification and Risk Perception in Entrepreneurship
 ---
+
+'external_link`.
