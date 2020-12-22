@@ -10,10 +10,10 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary: Unconventional Entreprenuership - Ongoing data collection through unobtrusive text-analysis measures.
 tags:
 - Deep Learning
-title: Internal Project
+title: Motivation, Emotions, Authenticity, and Performance in Unconventional Entreprenuers
 url_code: ""
 url_pdf: ""
 url_slides: ""
