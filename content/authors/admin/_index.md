@@ -12,8 +12,8 @@ education:
     year: 2009
 email: "colin.wooldridge@upb.de"
 interests:
-- Entrepreneurial Motivation
-- Entrepreneurial Role Models
+- International Business
+- Entrepreneurship
 - Statistical Methodology
 - Employee Selection & Voice
 organizations:
@@ -43,5 +43,5 @@ user_groups:
 - Visitors
 ---
 
-I am a Postdoctoral reseacher and lecturer at Paderborn University at the International Business Chair of Professor Rüdiger Kabst. My goals in academia are to contribute to a better understanding of the ways is which entrepreneurial motivation is fostered, manifests throughout the entrepreneurial journey, and how new technology platforms impact these processes. I enjoy introducing students to the possibilities of entrepreneurship, data scraping and analysis, entrepreneurial finance, recommending entirely too many podcasts, and occasionally annoying them with too many pictures of my wife and I's longhaired dachshund. 
+Currently, I am a Post-Doctoral Researcher and Lecturer at Paderborn University. My primary research interests are in the areas of international business, entrepreneurship, the intersection of the two former, and research methodology. I enjoy introducing students to the possibilities of entrepreneurship, international business, data scraping and analysis, recommending entirely too many podcasts, and occasionally annoying them with too many pictures of my wife and I's two longhaired dachshunds. 
 
