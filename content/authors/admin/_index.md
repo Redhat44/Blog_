@@ -12,7 +12,7 @@ education:
     year: 2009
 email: "colin.wooldridge@upb.de"
 interests:
-- International Business
+- Organizational Behavior
 - Entrepreneurship
 - Statistical Methodology
 - Employee Selection & Voice
