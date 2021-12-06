@@ -43,5 +43,5 @@ user_groups:
 - Visitors
 ---
 
-Currently, I am a Post-Doctoral Researcher and Lecturer at Paderborn University. My primary research interests are in the areas of international business, entrepreneurship, the intersection of the two former, and research methodology. I enjoy introducing students to the possibilities of entrepreneurship, international business, data scraping and analysis, recommending entirely too many podcasts, and occasionally annoying them with too many pictures of my wife and I's two longhaired dachshunds. 
+Currently, I am a Post-Doctoral Researcher and Lecturer at Paderborn University. My primary research interests are in the areas of organizational behavior, selection in human resources, the intersection of the two former within entreprenuership, and research methodology. I enjoy introducing students to the possibilities of entrepreneurship, organizational behavior, psychology, data scraping and analysis, recommending entirely too many podcasts, and occasionally annoying them with too many pictures of my wife and I's two longhaired dachshunds. 
 
