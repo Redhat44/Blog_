@@ -88,16 +88,16 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "colin.wooldridge@upb.de"
-phone = "+49 5251 60-4930"
+email = "colin.wooldridge@tamucc.edu"
+phone = "(361) 825-6015"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Warburger Straße 100 ", city = "Paderborn", region = "NRW", postcode = "33098", country = "Germany", country_code = "DE"}
+address = {street = "6300 Ocean Drive", city = "Corpus Christi", region = "Texas", postcode = "78412", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "51.700893", longitude = "8.761867"}
+coordinates = {latitude = "27.7126", longitude = "97.3235"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building and take stairs to first floor, office  is first door on the left"
@@ -112,8 +112,6 @@ appointment_url = "https://calendly.com"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  #{icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
