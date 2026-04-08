@@ -13,7 +13,7 @@ projects: []
 subtitle: Does it matter who we connect with professionally in terms of our career success? Should we always try to connect with individuals that are more successful than ourselves?
 summary: 
 tags: []
-title: Forced Connection - An Investigation of the Effects of Online Professional Social Comparison on Perceived Employability
+title: "Forced Connection - An Investigation of the Effects of Online Professional Social Comparison on Perceived Employability"
 ---
 
 ```python
