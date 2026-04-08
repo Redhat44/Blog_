@@ -10,16 +10,16 @@ education:
   - course: BSc in Psychology
     institution: Texas A&M University
     year: 2009
-email: "colin.wooldridge@upb.de"
+email: "colin.wooldridge@tamucc.edu"
 interests:
 - Organizational Behavior
-- Entrepreneurship
-- Statistical Methodology
+- Social comparison,Career Success, and Professional Social Networks
 - Employee Selection & Voice
+- Linguistic Individual Difference Indirect Measurement Tools
 organizations:
-- name: Paderborn University
-  url: "https://www.uni-paderborn.de/person/79024"
-role: Postdoctoral Researcher & Lecturer
+- name: Texas A&M University - Corpus Christi
+  url: "https://www.tamucc.edu/"
+role: Assistant Professor of Management
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,5 +43,4 @@ user_groups:
 - Visitors
 ---
 
-Currently, I am a Post-Doctoral Researcher and Lecturer at Paderborn University. My primary research interests are in the areas of organizational behavior, selection in human resources, the intersection of the two former within entreprenuership, and research methods. I enjoy introducing students to the possibilities of entrepreneurship, organizational behavior, psychology, data scraping and analysis, recommending entirely too many podcasts, and occasionally annoying them with too many pictures of my wife and I's two longhaired dachshunds. 
-
+Currently, I am an Assistant Professor of Management at Texas A&M University Corpus Christi. My research interests range from investigating factors influencing career success in online professional social networks, the use of indirect linguistic measures on individual difference variables, selection, food insecurity, and the role of AI in the modern workplace.
