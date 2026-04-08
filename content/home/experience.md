@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Assistant Professor of Management"
   company = "Texas A&M University Corpus Christi"
-  company_url = "hhttps://www.tamucc.edu/"
+  company_url = "https://www.tamucc.edu/"
   location = "Corpus Christi, Texas"
   date_start = "2022-08-01"
   date_end = ""
