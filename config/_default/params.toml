@@ -100,11 +100,8 @@ address = {street = "6300 Ocean Drive", city = "Corpus Christi", region = "Texas
 coordinates = {latitude = "27.7126", longitude = "-97.3235"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building, take elevator to 3rd floor, office is through the doors to the right when exiting"
+directions = "Enter Michael O'Connor Building, take elevator to third floor, my office is through the doors to the right when exiting"
 
-# Office hours
-# A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
 
 
 # Contact links
