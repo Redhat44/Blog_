@@ -1,5 +1,5 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this study, we present a more accurate method for correcting for range restriction (Case V) that expands upon Bryant and Gokhale's (1972) method. We further present detailed steps to incorporate the Case V method into Schmidt and Hunter's (2015) psychometric meta‐analysis methods (both individual correction and artifact distribution approaches). We then evaluate the accuracy of the Case V method vis‐à‐vis existing methods.
 author_notes:
 - Equal contribution
 - Equal contribution
@@ -23,7 +23,7 @@ slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example journal article
+title: Correction for range restriction in meta‐analysis revisited: Improvements and implications for organizational research
 url_code: ""
 url_dataset: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
