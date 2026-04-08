@@ -20,7 +20,7 @@ summary: Create a beautifully simple website in under 10 minutes.
 tags:
 - Academic
 - 开源
-title: 'Academic: the website builder for Hugo'
+title: 'Uncertainty in Banking: Adapting to CECL'
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
