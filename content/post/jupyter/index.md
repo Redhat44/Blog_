@@ -10,10 +10,10 @@ image:
   focal_point: ""
 lastMod: "2019-09-05T00:00:00Z"
 projects: []
-subtitle: Learn how to blog in Academic using Jupyter notebooks
-summary: Learn how to blog in Academic using Jupyter notebooks
+subtitle: Does it matter who we connect with professionally in terms of our career success? Should we always try to connect with individuals that are more successful than ourselves?
+summary: 
 tags: []
-title: Display Jupyter Notebooks with Academic
+title: Forced Connection - An Investigation of the Effects of Online Professional Social Comparison on Perceived Employability
 ---
 
 ```python
