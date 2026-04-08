@@ -21,10 +21,10 @@ publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: We examine the effects of forward-looking information in loan loss provisions (LLPs) as reflected in the current expected credit losses model (CECL) on bank disclosure uncertainty and its effect on the procyclicality of bank lending. We use a difference-in-differences approach and find that public bank holding companies (BHCs) adopting CECL in 2020 disclosed LLP information with less uncertainty than did BHCs that had yet to adopt CECL.
 tags:
 - Source Themes
-title: An example conference paper
+title: CECL Adoption, Disclosure Uncertainty, and Procyclicality of Bank Lending – Evidence from Textual Analysis
 url_code: '#'
 url_dataset: '#'
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
