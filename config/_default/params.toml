@@ -97,7 +97,7 @@ address = {street = "6300 Ocean Drive", city = "Corpus Christi", region = "Texas
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "27.7126", longitude = "97.3235"}
+coordinates = {latitude = "27.7126", longitude = "-97.3235"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building and take stairs to first floor, office  is first door on the left"
