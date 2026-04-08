@@ -23,7 +23,7 @@ slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Correction for range restriction in meta‐analysis revisited: Improvements and implications for organizational research
+title: "Correction for range restriction in meta‐analysis revisited: Improvements and implications for organizational research"
 url_code: ""
 url_dataset: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
